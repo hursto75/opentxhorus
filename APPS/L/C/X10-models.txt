@@ -1,0 +1,7 @@
+[JustFly]
+X10AppMan.bin
+X10Basics.bin
+X10BasDLG.bin
+X10BasEgl.bin
+X10BasOnl.bin
+X10FulEgl.bin

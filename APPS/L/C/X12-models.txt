@@ -1,0 +1,7 @@
+[JustFly]
+X12AppMan.bin
+X12Basics.bin
+X12BasDLG.bin
+X12BasEgl.bin
+X12BasOnl.bin
+X12FulEgl.bin

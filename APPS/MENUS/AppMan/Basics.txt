@@ -1,0 +1,46 @@
+This is the menu for setting up your BasicsOnly model. It will not support all setups, but is simpler to adapt 'under the hood'.
+If you have chosen a Basics, BasicsEglideor BasicsDLG predefined model, an extramenu item 'basicsPlus' will become available, to support the plus functions.
+ 
+The Basics model has been designed around an aileron / flaps motorised plane, in combination with rudder and elevator.
+The following wing configurations are supported:
+ 
+1-servo or 2-servo Y-cable aileron
+1-servo or 2-servo Y-cable aileron, with 1-servo or 2-servo Y-cable flaps
+2-servo flaperon
+2-servo flying wing (use tail servo setup for V-tail)
+X-tail and V-tail are both supported.
+ 
+Throttle Safety is standard set to the SF switch. 
+ 
+New users of OpenTX can use it out of the box, without further knowledge of OpenTX itself.
+All functions are defaulted when the activating switch is in the 'up' position.
+ 
+If your servo linkage is technically correct, and you connected the servos in TAER order, with the Flaps on ch 6, and verified the servo directions, you are ReadyToFly without further setup.
+ 
+Put all switches in the 'up' position, bind your receiver, check servo directions, have fun and 
+ 
+Just Fly!
+
+Basics setup, HowTo:
+
+The general filosofy is to primarily use flight modes to activate or deactivate certain settings.
+Instead of assigning seperate functions to seperate switches, all settings affecting flight for a certain situation (acrobatics, first flying, etc.) are linked to a specific flightmode.
+I this way, selecting a different flight mode will activate all specific settings needed in the correct combination for that type of flight (that flight mode).
+
+Although this might sound limiting, in fact it makes your flying a lot easier.
+Since there are 8 free flight modes, practically speaking these limitations do not occur.
+
+Instead of thinking which switches to use to enable a little camber, snapflap and crow breaking, you just use one flightmode to activate it with one flip of a switch. 
+Selecting that flightmode now acts upon the ensemble of the settings, putting your plane directly in the desired mode of operation.
+
+But to make effective use of this filosofy, you must be able to assign the flight modes to any switch combination of two switches you can activate for that purpose in a simple and flexible way.
+Therefore, a special flight mode selection setup is used, that allows you to assign a flight mode to a switch combi.
+This means that it is possible to assign the same flight mode to all switch positions possible of the two flight mode selection witches.
+
+Since you have 8 free flightmodes, and you can assign every flightmode to as much switch combies as you wish, using two switches to select the flight modes, you can actually achieve quite a lot in a simple way.
+
+For example:
+In the Basics model default setup, the flaperon and aileron throw in the flightmode 'newbie' are set to 75%. Also, the elevator throw is limited to 75% in the flightmode 'newbie'. In the flightmode cruise and float, they are 100%
+At the same time, the SD switch is assigned to the expo function. It will activate 45% expo in the SD up position, 65% of expo in the mid position, and 0% in the down position.
+
+This effectively means that with the SD switch, both high expo as dual rates can be activated.

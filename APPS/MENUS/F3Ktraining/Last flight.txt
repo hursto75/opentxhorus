@@ -1,0 +1,7 @@
+5.7.11.1. Task A (Last flight)
+
+Each competitor has an unlimited number of flights, but only the last flight is taken into account to determine the final result. 
+
+The maximum flight time is limited to 300 seconds. Any subsequent launch of the model glider annuls the previous time.
+
+Working time: 7 minutes or 10 minutes

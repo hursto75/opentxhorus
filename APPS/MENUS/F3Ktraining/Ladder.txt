@@ -1,0 +1,23 @@
+5.7.11.4. Task D (Increasing time by 15 seconds)
+
+Each competitor has an unlimited number of flights for each target flight time.
+
+Each competitor must try to complete the first flight of 30 seconds or more.
+Once this is accomplished, each of the next target flight times must be incremented by 15 seconds therefore flight times should be equal to or more than: 
+30 s; 45 s; 60 s;75 s; 90 s; 105 s; 120 s.
+
+The longest target flight time is 120 seconds.
+The time of all the achieved target flight times is taken into account for scoring.
+
+Working time is 10 minutes.
+
+Example: 
+
+1st flight 32 s target time of 30 seconds is achieved; flight score is 30 points.
+The next target flight is 45 seconds.
+2nd flight 38 s 45 seconds not reached, score 0
+3rd flight 42 s 45 seconds not reached, score 0
+4th flight 47 s target time of 45 seconds is achieved; flight score is 45 points; partial score is: 30 + 45 points. The next target flight is 60 seconds
+5th flight 81 s target time of 60 seconds is achieved; flight score is 60 points.
+The next target flight should be 75 seconds but the remaining working time is only 65 seconds therefore the next target flight cannot take place.
+The total score for the task is: 30+45+60 = 135 points

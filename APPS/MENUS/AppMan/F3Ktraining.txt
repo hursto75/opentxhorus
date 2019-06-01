@@ -1,0 +1,89 @@
+Actually this is just a menu to support easy picking of the preset tasks as known in the F3K competition class for Discuss Launched Gliders to run the JustFly App.
+So for help on the JustFly app itself, just check out there.
+
+On every preset task, you can open the help menu to change the settings.
+You can decide to store the changed settings, or to just use them for one time.
+
+From the settings you can open the NotePad, which will open the paragraph of the official FAI rules for that task.
+
+The general rules:
+
+5.7. CLASS F3K - HAND LAUNCH GLIDERS
+
+5.7.1. General
+This event is a multitasking contest where the RC gliders must be hand-launched and perform specific tasks.
+
+5.7.1.1. Timekeepers
+The organiser should provide a sufficient number of well-trained, official timekeepers in order to allow enough simultaneous flights at all time.
+The official timekeeper is not allowed to assist the competitor or his helper in any way.
+The competitor and his helper are entitled to read their results during the working time.
+Official timekeepers may position themselves anywhere inside or outside the start and landing field
+in order to observe the flight.
+They must at all times ensure that they do not impede any pilot or model.
+
+5.7.1.2. Helper
+Each competitor is allowed one helper who is not allowed to become physically involved in the flight, except for retrieving the airplane, if it has landed outside the start and landing field.
+The helper is the only person allowed to help the competitor during his working time.
+After the end of the working time the competitor and the timekeeper must sign the results of the round.
+If the result is not signed by the competitor, then the score for the round will be 0 points.
+
+5.7.1.3. Transmitter Pound
+The organiser should consider the need for a transmitter pound with reference to Volume ABR Section 4B, B11.2 - B.11.6.
+
+5.7.2. Definition of model glider
+5.7.2.1. Specifications
+Model gliders are gliders with the following limitations:
+Wingspan maximum 1500 mm
+Weight maximum 600 g
+Radius of the nose must be a minimum of 5 mm in all orientations. (See F3B nose definition for measurement technique.)
+The model glider must be launched by hand and is controlled by radio equipment acting on an unlimited number of surfaces.
+The use of gyros and variometers onboard the model glider is not allowed.
+The model glider may be equipped with holes, pegs or reinforcements, which allow a better grip of the model glider by hand.
+The pegs must be stiff and an integral part of the model glider, and be neither extendable nor retractable.
+Devices, which do not remain a part of the model glider during and after the launch, are not allowed.
+
+5.7.2.2. Losing a part of the model glider
+If the model glider loses any part during the flight, then the flight shall be scored zero.
+If the model glider loses a part as a result of a mid-air collision or during the landing; that means after the first
+contact of the model glider with the ground, any object or person, then the flight is valid.
+
+5.7.2.3. Change of model glider
+Each competitor is allowed to use five model gliders in the contest.
+It is permissible to change parts between these five model gliders.
+The competitor may change his model gliders at any time as long as they conform to the specifications and are operated on the assigned frequency.
+The organiser has to mark the five model gliders and all interchangeable parts of each of the five model gliders.
+Each competitor may only have one model glider in the start and landing field at any moment during the working time.
+Only the model gliders that are in a spare model area or in the start and landing field at the start of the working time may be used during the working time.
+To change model gliders, the 'old' one must be placed in the same spare model area as the 'new' one, before the 'new' one is taken out.
+
+5.7.2.4. Retrieving of model glider
+If the competitor lands the model glider outside the start and landing field during his preparation and working time, then it has to be retrieved back to the start and landing field either by the competitor or his helper.
+Other people are not allowed to retrieve the model glider.
+Illegal retrieving of the model glider by another member of his team will be penalised by disqualification in that round.
+If a person other than a competitor or his helper (such as spectator) accidentally moves or retrieves a competitor's model, that competitor will be entitled to a new working time.
+While retrieving the model, it is not permissible to fly it back to the start and landing field.
+Launching outside the start and landing field in this situation will be penalised with 100 points that will be deducted from the final score.
+
+5.7.2.5. Radio frequencies
+Each competitor not using a Spread Spectrum Technology Transmitter must provide at least two frequencies on which his model glider may be operated, and the organiser may assign any of these frequencies for the duration of the complete contest.
+The organiser is not allowed to change the frequency assigned to a competitor during the event.
+The organiser may re-assign frequencies to competitors only if a separate fly-off is flown and only for the duration of the complete fly-off.
+
+5.7.2.6. Ballast
+Para B3.1 of Section 4b (builder of the model airplane) is not applicable to class F3K.
+Any ballast must be inside the model glider and must be fixed safely.
+
+5.7.3. Definition of the flying field
+5.7.3.1. Flying field
+The flying field should be reasonably level and large enough to allow several model gliders to fly simultaneously.
+The main source of lift should not be slope lift.
+
+5.7.3.2. Start and landing field
+The organiser must define the start and landing field before the start of the contest.
+Within the start and landing field each competitor must have adequate space to conduct his launches and landings, at least 30 metres distance to any person in the start direction.
+The organiser should consider about 900 m² per competitor, (square of 30 m x 30 m).
+The border line defining the start and landing field is part of the start and landing field.
+Competitors may leave the start-and-landing field while flying their model glider.
+For starting their model glider and in order to achieve a valid landing (see 5.7.6.2) the competitor must be inside the start and landing field.
+Areas for storage and changing of spare models must be defined outside but within 2 meters of the start and landing field.
+About 4 square metres must be available for each competitor in a group in each area.

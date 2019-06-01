@@ -1,0 +1,27 @@
+3, 4 and 5 out of 6
+
+You have 20 minutes working time to make 6 launches. You must try to fly 3, 4 and 5 minutes flights in this order (not necessarily in succession), these are maximum flight times. You are allowed to restart in order to make the required time but you may launch only 6 times in total.
+
+Explanation: 
+Try to make a 3 minute flight, you do not have to make the 3 minutes but that time will be lost in the total score. Next try a 4 minute flight, you have a total of 3 spare launches so you can retry. Finally try the 5 minutes.
+
+Example:
+Flight 1: 170 seconds
+Flight 2: 90 seconds
+Flight 3: 245 seconds
+Flight 4: 70 seconds
+Flight 5: 78 seconds
+Flight 6: 300 seconds
+
+The total for this task = 170 + 240 + 300 = 710 seconds
+
+
+Score:
+The best time gets 1000 points
+Theoretically it is possible to fly 720 seconds
+If someone did make 720 seconds (1000 points) and you did 710, then your score is (710/720)*1000 = 986 points
+
+
+Your scores should be sent to justflysolutions@gmail.com within a day after flying the task, with 'Winterpostal' as subject.
+
+You can also upload your task results by entering the seconds flewn for this months task, and/or check the other competitors scores at www.justfly.solutions. 

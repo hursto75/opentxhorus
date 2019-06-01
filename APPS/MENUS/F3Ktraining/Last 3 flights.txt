@@ -1,0 +1,13 @@
+5.7.11.10 Task J (Three last flights)
+
+During the working time, each competitor has an unlimited number of flights, but only the three last flights will be scored.
+
+Maximum time per flight is 180 seconds for 10 minutes working time.
+
+Example:
+
+1st flight 150 s
+2nd flight 45 s
+3rd flight 180 s
+4th flight 150 s
+Total score: 45 s + 180 s + 150 s = 375 s

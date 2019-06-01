@@ -1,0 +1,2 @@
+For timer2 you can set the start time, and assign the reset function.
+Timer2 is normally used to clock individual flights within a session, or act as a countdown for a predefined time in order to be sure you still have power left in your flight batteries.

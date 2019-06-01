@@ -1,0 +1,12 @@
+The mode for timer2 will determine it's countdown behaviour.
+- ON means it will start timing as soon as it is reset. The timer will always be running.
+- Tht means it will start after being reset at the first touch of the throttle stick.
+- Th% means it will count down at a speed relative to the throttle input.
+- Ths means it will count down when the throttle is active.
+- !resetSwitch will count down as long as the reset switch is not pulled.
+
+Th% is used as a rough estimate for power used. The countdown time should be set to the time it takes to deplete the batteries when flying at full power.
+
+Ths is used as a very conservative estimate for power used. Mostly used when flying with the throttle on a switch. The countdown time should be set to the time it takes to deplete the batteries when flying with the switch activated.
+
+- !resetSwitch is used to be able to read out flown time by pulling the reset switch and keeping it pulled. The timer will stop counting, so you can check the time registered. As soon as you release the switch, the reset will be executed, and the timer will start running again.

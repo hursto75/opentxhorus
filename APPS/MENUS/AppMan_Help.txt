@@ -1,0 +1,13 @@
+The JustFly 'AppMan' is a customisable user interface for the OpenTX radio operating system, written in LUA.
+It can be launched from the SDcard browser on your OpenTX radio.
+It comes as part of any product purchased on this site, and is not available as separate purchase.
+
+It is also installable as telemetry script, so you can easily start it by long pressing the PAGE button (on the 'Taranis' X7, X7S, X9D, X9D+) or as a widget on any basic screen (on the 'Horus' X0, X10S, X12S). 
+
+It consist of a menu structure to easily access any standard LUA script that will run on your radio:
+
+Next to that, a set of custom pages to support the general setup and tuning of your models is included, like adapting the servo order of your model by the click of a button, or visualising the controls on your plane.
+
+Additional model support menus are available for the included predefined models. A license key can be purchased to unlock these extra menu pages.
+
+Finally, specific apps can be purchased, such as the JustFly app, that will show a graphical representation of the altitude during your flying session.

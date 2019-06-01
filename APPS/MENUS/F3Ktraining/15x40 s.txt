@@ -1,0 +1,10 @@
+15x40 Quick Turnaround training task
+
+In-official training task.
+
+Helps training launches and turnaorounds.
+
+Exists of 15 targets of 40 seconds.
+Maximum possible time 2018 rules is 10:00 - 15s = 9:45.
+
+Working time is 10 minutes.

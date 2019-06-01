@@ -1,0 +1,8 @@
+5.7.11.7. Task G (Five longest flights)
+
+Each competitor has an unlimited number of flights.
+Only the best five flights will be added together.
+
+The maximum accounted single flight time is 120 seconds.
+
+Working time is 10 minutes.

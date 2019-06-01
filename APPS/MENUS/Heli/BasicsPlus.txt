@@ -1,0 +1,4 @@
+In this menu you find all the special settings.
+
+You will find settings grouped per control surface.
+Every action having an effect on that surface is in that group.

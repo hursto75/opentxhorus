@@ -1,0 +1,23 @@
+5.7.11.3. Task C (All up, last down)
+
+All competitors of a group must launch their model gliders simultaneously, within 3 seconds of the acoustic signal. The maximum measured flight time is 180 seconds.
+
+The official timekeeper takes the individual flight time of the competitor according to 5.7.6 and 5.7.7 from the release of the model glider and not from the start of the acoustic signal.
+Launching a model glider before or more than 3 seconds after the start of the acoustic signal will result in a zero score for the flight.
+
+The number of launches (3 to 5) must be announced by the organiser before the contest begins.
+
+The preparation time between attempts is limited to 60 seconds after the end of the landing window.
+During this time the competitor may not perform test flights.
+
+The competitor is not allowed any help during the flight testing time, working time or landing window.
+
+The flight times of all attempts of each competitor will be added together and will be normalised to calculate the final score for this task.
+
+No working time is necessary.
+
+Example for 3 flights:
+
+Competitor A: 45 s + 50 s + 35 s = 130 s = 812.50 points
+Competitor B: 50 s + 50 s + 60 s = 160 s = 1000.00 points
+Competitor C: 30 s + 80 s + 40 s = 150 s = 937.50 points

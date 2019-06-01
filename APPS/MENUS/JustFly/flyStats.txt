@@ -1,0 +1,6 @@
+Flight stats as registered by the JustFLy app.
+Any demo flight where there is no receiver powered up and bound to the transmitter, are not taken into account.
+ 
+All values are 'stored' in an unused servo channel labeled 'height'.
+Resetting the servo trim settings for this servo to default will reset the flight
+statistics. 

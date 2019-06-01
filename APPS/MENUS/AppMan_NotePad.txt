@@ -1,0 +1,18 @@
+OpenTX allows you to add a text file to each model.
+
+In this textfile you can note certain actions to be done or to be remembered at startup of your model.
+These files have a limited line length, and are shown in a large font.
+
+We have created a NotePade to show this textfile at any moment you want by selecting the NotePad menu entry in the AppMan.
+It will show your notes in a somewhat smaller font, and will add soft line breaks, so you can actually read any flat text file.
+
+In addition, you can make (small) adjustments in the text files using the radio, for instance changing your notes on switch assignments.
+
+Just select the line you want to edit, and click enter to start the edit mode.
+The first character on the line will start flashing, and the plus and minus buttons allow you to change the blinking character. 
+When finished changing, click enter once to advance to the next character.
+Press long on the page button, to jump to the end of the line. When at the end of the line, the notepad will return to the view mode when clicking on enter.
+
+The -> and <- characters have a special function. By selecting them and pressing enter, they will either insert or delete a character on the current position in the current line.
+Or, when at the end of the line, add a line break or delete a line.
+A line can only be deleted when it is empty.

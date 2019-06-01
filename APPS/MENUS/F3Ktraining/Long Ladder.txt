@@ -1,0 +1,12 @@
+Long Ladder
+
+In-official training task.
+
+Helps getting warmed up, as launches get more close to each other at the end.
+
+Start with 75 seconds, and decrease each next target with 5 seconds.
+15 targets, of which last two are not possible to reach.
+
+Working time is 10 minutes.
+
+Maximum possible score is 10:00 - 14s = 9:46, making the last flight start only 1s before end of working time.

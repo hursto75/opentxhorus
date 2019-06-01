@@ -1,0 +1,2 @@
+If you use your own model setup, you still get all menus that are generic, and work for all models.
+They will help you to speed up certain tasks, like switching servo order.

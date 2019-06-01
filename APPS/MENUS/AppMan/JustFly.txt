@@ -1,0 +1,29 @@
+The JustFly App is a powerfull timer Application, capable of showing real time flight altitude and timer info.
+It will also announce the first peak altitude, for Discuss Launch Gliders corresponding to the launch height.
+
+The JustFly app will allow you to time your flights.
+It was designed for F3K time keeping, but can be used in a more general way.
+
+After loading the main screen, you can change the type of screen by shortly pressing the 'ENTER' button.
+You can choose between graphs showing your altitude during and after flights, flight timing results, or session statistics that are relevant to an F3K pilot.
+The statistics are not available in the 'JustFly' entry on the main screen. 
+
+To (re)start a flight (and session if not already started) you must pull the switch assigned to activate the 'launch' mode, normally SF or SH, and RELEASE it.
+
+To stop a flight counter, you must pull the launch switch briefly.
+The app will go into a waiting state for the next.
+The running graph is frozen if displaying the graph screen.
+Launch height (first maximum during flight) is added to the list on the right, as well as flight time and sink rate.
+
+When the flight timer screen is active, a time will be entered in the list, next to the remaining target times. In the stats screen, the flight time is added to the list, and the time you landed short of target (S) or late (L), in seconds.
+
+The main display will show slack, time to improve, other useful info, until you are flying again, in which case it shows a big timer, counting down on remaining flight time.
+
+In order to do a Quick Turnaround, just keep the launch switch pulled for more than 0.6s. After that, the running timer will stop and register the time, and restart a new flight on release of the launch switch.
+
+To invalidate a flight, press the enter button during flight. The flight will be registered as invalid, and the app goes into a waiting state for the next launch. 
+If pressing enter again when in waiting state, the session is ended, and a score is presented.
+
+In the scoring screen, by using the elevator stick, you can calculate your relative score by setting the max score flewn in your session.
+
+The graph log of each flight can be selected by the PLUS and MINUS buttons.

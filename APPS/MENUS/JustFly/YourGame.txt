@@ -1,0 +1,44 @@
+The Yourgame page is made to allow you to create your own game.
+The settings can be adjusted in the help page.
+They are explained here:
+
+- save = 1,
+1 meaning settings will be saved after 'go and save'. Set to 0 to test settings without saving.
+
+- JF_T = 1,
+number of targets, 0 meaning as many as you can fly
+
+- JF_TO = 'BEST',
+Type of scoring: BEST times or LAST times count
+
+- JF_PT = 0,
+Preparation time, time before countdown
+
+- JF_C = 'F3K',
+type of timing, F3K being DLG timing for F3K planes. When set to F3K, stats will be available as screen selection
+
+- JF_LW = 30,
+Landing window, for F3K officially 30s
+
+- JF_WT = 3600,
+Working Time, anything up to 3600s, being 1 hour
+
+- JF_TS = 0,
+Target Step, used to increase or decrease next target time
+
+- JF_TYPE = 'MAX',
+Target type, MAX meaning any time flewn is scored, target 'used' and flight counted.
+MIN meaning only achieved target time flewn is scored.
+When target not achieved, no score noted, target remains 'unused', but flight is counted
+
+- JF_TT = 3600,
+Target Time, anything between 1 and 3600s. Is automatically updated to the total of all target times when adjusting the target time or number of targets.
+
+- id = 2,
+The list order within the menu of this item
+
+- JF_F = 0,
+The number of flights allowed, 0 meaning as much as you want.
+
+- name = 'YourGame',
+the name of the game :)

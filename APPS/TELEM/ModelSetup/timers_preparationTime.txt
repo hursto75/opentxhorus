@@ -1,0 +1,1 @@
+If you are using the JustFly app, the preparation or countdown time in seconds for this app can be set in this screen. It is stored as a weight on the input 'PREP' 

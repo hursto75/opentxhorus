@@ -1,0 +1,7 @@
+The JustFly 'task' will allow you to simply time your flights, and have a graph logged per flight.
+
+It works as a normal task, but sounds are disable, apart from launch height announcement.
+The working time is set to 60 minutes, and the target time as well. Unlimited flights.
+So you can just fly and try to improve your best flight within the hour working time.
+
+Have Fun and Just Fly!

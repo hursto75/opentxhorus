@@ -1,0 +1,14 @@
+First In First Out
+
+The FIFO graph will show the telemetry source chosen for the timeframe defined from right to left.
+
+A horizontal line with the current value is shown to facilitate quick interpretation of the graph, useful when flying or for small widgets.
+The telemetry value can be scaled.
+100 means it will be scaled to 100% (no scaling).
+A stick or switch source will then range between -1024 and 1024.
+Using a scale of 1024 means that a stick or switch source will be scaled to (value/1024 * 100), so they will range beteween -100 and + 100. 
+
+Practical tip to view the graph while flying and not loosing sight of your plane is to keep the arms straight, end hold the transmitter in the air to be next to your plane.
+Now you can quickly switch between the screen and the plane, without to much a risk of loosing sight on the plane.
+
+The 'enter' button wil restart the graph, and rescale the vertical axis.

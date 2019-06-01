@@ -1,0 +1,3 @@
+All settings and mixes affecting your wing section are shown here.
+These settings are all per flightmode. 
+Make sure you activate the correct flight mode before changing these settings.

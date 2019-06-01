@@ -1,0 +1,2 @@
+  --This is licensed software. please visit http://www.justfly.solutions/index.php/licenses/2-lua-scripts-license
+--Copyright 2016 to Khadija.el.Bekkaoui and/or Entel Consulting BVBA

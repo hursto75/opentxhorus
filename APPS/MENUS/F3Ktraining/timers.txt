@@ -1,0 +1,119 @@
+You can set the start time for timer1, normally the total flying session time, or 'WORKING TIME'.
+
+For timer2 you can set the start time, and assign the reset function.
+Timer2 is normally used to clock individual flights within a session, or act as a countdown for a predefined time in order to be sure you still have power left in your flight batteries.
+
+The mode for timer2 will determine it's countdown behaviour.
+- !resetSwitch will count down as long as the reset switch is not pulled.
+
+If you are using the JustFly app, the preparation or countdown time in seconds for this app can be set in this screen. It is stored as a weight on the input 'PREP' 
+
+If you use your own model setup, be aware that the reset switch is assigned to the first special function found that resets timer2.
+
+5.7.6. Definition of landing
+5.7.6.1. Landing
+The model glider is considered to have landed (and thereby terminated its flight) if:
+(a) The model glider comes to a rest anywhere.
+(b) The competitor touches the airborne model glider for the first time by hand or any part of his body.
+
+5.7.6.2. Valid landing
+Landing is considered valid, if:
+(a) At least one part of the model glider at rest touches the start and landing field or overlaps the start and landing field when viewed from directly above (this provision includes any ground based object within the starting and landing field, as well as the tape marking the boundary of the landing field).
+(b) The competitor touches the airborne model glider for the first time, while standing on the ground with both feet inside the starting and landing field.
+
+5.7.7. Flight time
+The flight time is measured from the moment the model glider leaves the hands of the competitor until a landing of the model glider as defined in 5.7.6. or the working time expires.
+The flight time is measured in full seconds. Rounding up is not applied.
+The flight time is official if:
+The launch happened from inside the start and landing field and the landing is valid according to 5.7.6. and the launch happened within the working time of the task.
+This means that if the airplane is launched before the beginning of the working time then that flight receives a zero score.
+In those tasks, where maximum or target flight times are specified, the flight time is scored up to this maximum or target flight time only.
+The sum of all flight times per task must not be greater than the working time minus the number of scored flights in seconds.
+
+5.7.8. Local rules
+Local rules may be used only in cases of safety issues in local flying areas, but not for changing tasks.
+
+5.7.9. Definition of a round
+5.7.9.1. Groups and round scores
+The contest is organised in rounds. In each round the competitors are arranged in as few groups as possible.
+A group must consist of at least 5 competitors.
+The composition of groups has to be different in each round.
+The results are normalised within each group, 1000 points being the basis for the best score of the
+winner of the group.
+The result of a task is measured in seconds and truncated down to the whole seconds according to 5.7.7.
+The normalised scores within a group are calculated by using the following formula: 
+normalised score = competitor's score / best competitor's score x 1000.
+The normalised scores are rounded to whole numbers.
+
+5.7.9.2. Working time
+The working time allocated to a competitor is defined in the task list.
+The start and end of the working time must be announced with a distinct acoustic signal. The first moment, at which the acoustic signal can be heard, defines the start and end of the working time.
+
+5.7.9.3. Landing window
+No points are deducted for flying over the maximum flight time or past the end of the working time.
+For all Tasks except Task C (All up), a 30 seconds landing window will begin at the end of the working time.
+Any model gliders still airborne must land before the end of the landing window.
+If a model glider lands later, then that flight will score zero.
+For Task C (All up), the landing window for each flight attempt will begin at 3:03 and end at 3:33 after the start of the acoustic signal indicating the 3 second launch window.
+If a model glider lands after the end of the landing window, then that flight will score zero.
+If this happens between any two flight attempts of Task C, and the model glider is airborne during the special 60 second preparation time before the next flight attempt, the next flight attempt will also score zero according to 5.7.11.3.
+If this happens after the last flight attempt of Task C, the competitor will receive a 100 point penalty according to 5.7.9.4.
+The organiser should announce the last ten seconds of the landing window by counting down.
+
+5.7.9.4. Preparation time
+For each round, the competitors receive at least 5 minutes of preparation time.
+This preparation time should ideally start 3 minutes before the end of the working time of the previous group (or at the beginning of the last flight attempt in Task C (All up) of the previous group), in order to save time.
+At the beginning of a preparation time, the organisers must call the names and/or starting numbers of the competitors flying in the next group.
+Before each flight attempt of Task C (All up) there must be an additional preparation time period of 60 seconds when flying is not allowed (see Task C description in 5.7.11.3)
+
+5.7.9.5. Flight testing time
+After all the model gliders of the previous group have landed, the competitors flying in the next group receive at least 1 minute of flight testing time, which is part of the preparation time.
+During this flight testing time the competitors are allowed to perform test flights from the start and landing
+field.
+Each competitor has to ensure that he is finished in time with his test flights and is ready to start when the working time of the group begins.
+The last 5 seconds before the start of the working time have to be announced by the organiser.
+A competitor will receive a penalty of 100 points if he starts or flies his model glider outside of the testing time, working time or landing window of his assigned group.
+Competitors may test fly before the transmitter impound and after the last working time of the day.
+
+5.7.9.6. Re-Flights
+The competitor is entitled to a new working time if his attempt could not be performed correctly due to organisers fault.
+The new working time is to be granted to the competitor according to the following order of priorities:
+a) in a following group;
+b) if this is not achievable, then in a new group of a minimum of 4 re-flyers.
+The new group of re-flyers can be completed by other competitors selected by random draw.
+If the frequency or team membership of the drawn competitor does not fit or the competitor will not fly, the draw is repeated;
+c) if this also is not achievable, then with his original group at the end of the ongoing round. 
+In b) and c) above the better of the two results of the original flight and the re-flight will be the
+official score, except for the competitors (re-flyers) who are allocated the new attempt.
+For those, the result of the re-flight is the official score.
+A competitor of this group who was not allocated the new attempt will not be entitled to another working time in case of an organiser's fault.
+
+5.7.10. Scoring
+A minimum of five (5) rounds each with different tasks must be flown that the competition is valid.
+
+5.7.10.1. Final score
+The final score is the sum of the normalised scores of all rounds minus penalty points.
+If five (5) or more rounds are flown then the lowest score is dropped.
+The penalty points will be a deduction from the competitor's final score and shall be listed on the score sheet of the round in which the penalisation was applied.
+The penalty points are retained even if the score of the round in which the offence occurred is dropped.
+
+5.7.10.2. Resolution of a tie
+In the case of a tie, the best dropped score defines the ranking.
+If the tie still exists, a separate flyoff for the relevant competitors will be flown to achieve a ranking.
+In this case the contest director will define one task that will be flown for the tie-break fly-off.
+
+5.7.10.3. Fly-off
+The organiser may announce a fly-off prior to the beginning of the event.
+For World and Continental Championships, the fly-off is mandatory for seniors.
+The fly-off should consist of at least three (3) rounds with a maximum of six (6) rounds.
+If less then three (3) fly-off rounds can be completed, the result of the preliminary rounds determine the final ranking.
+A junior fly-off may be held with the maximum number of competitors being 2/3 of the seniors flyoff.
+A separate junior fly-off is not mandatory.
+If a fly-off is flown, the points (including penalties) of the previous rounds are not considered.
+
+5.7.10.4. Team Classification
+To establish the ranking for international team classification, add the final individual scores of three best members of the team.
+Teams are ranked according to the highest numerical score to lowest.
+In the case of a national team tie, the team with the lower sum of place numbers, given in order
+from the top, wins.
+If still equal, the best individual placing decides.

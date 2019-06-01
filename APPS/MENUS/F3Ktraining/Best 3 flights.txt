@@ -1,0 +1,8 @@
+5.7.11.9 Task I (Three longest flights)
+
+During the working time, each competitor has an unlimited number of flights.
+
+Only the best three flights will be added together.
+The maximum accounted single flight is 200 seconds.
+
+Working time is 10 minutes.

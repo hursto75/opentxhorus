@@ -1,0 +1,33 @@
+5.7.11.5. Task E (Poker - variable target time)
+
+Each competitor has an unlimited number of flights to achieve or exceed up to five target times.
+Before the first launch of a new target, each competitor announces a target time to the official timekeeper.
+He can then perform an unlimited number of launches to reach or exceed, this time.
+
+If the target is reached or exceeded, then the target time is credited and the competitor can announce the next target time, which may be lower, equal or higher, before he releases the model glider during the launch.
+If the target time is not reached, the announced target flight time cannot be changed.
+The competitor may try to reach the announced target flight time until the end of the working time.
+
+For the competitors last flight he may announce “end of working time”. For this specific call, the competitor has ONLY one attempt.
+
+The target time must be announced clearly in the official contest language or alternatively shown to the timekeeper in written numbers (e g 2:38) by the competitor’s helper immediately after the launch.
+If the competitor calls “end of working time” the competitor’s helper writes the letter “W”.
+
+The target(s) (1 - 5) with achieved target times are scored.
+The achieved target times are added together.
+
+This task may be included in the competition program only if the organiser provides a sufficient number of official timekeepers, so that each competitor in the round is accompanied by one official timekeeper.
+
+Working time is 10 minutes.
+
+Example:
+
+Announced time Flight time Scored time
+45 s 1st flight 46 s 45 s
+50 s 1st flight 48 s 0 s
+2nd flight 52 s 50 s
+47 s 1st flight 49 s 47 s
+60 s 1st flight 57 s 0 s
+2nd flight 63 s 60 s
+60 s 1st flight 65 s 60 s
+Total score is 262 s

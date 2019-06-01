@@ -1,0 +1,21 @@
+5.7.11.8. Task H (One, two, three and four minute target flight times, any order)
+
+During the working time, each competitor has an unlimited number of flights.
+He has to achieve four flights each of different target flight times duration.
+
+The target flight times are 60, 120, 180 and 240 seconds in any order.
+
+Thus the competitor's four longest flights flown in the working time are assigned to the four target flight times, so that his longest flight is assigned to the 240 seconds target flight time, his 2nd longest flight to the 180 seconds target flight time, his 3rd longest flight to the 120 seconds target flight time and his 4th longest flight to the 60 seconds target flight time.
+
+Only the flight time up to the target flight time is taken into account for scoring.
+
+Working time is 10 minutes.
+
+Example:
+
+Flight time Scored time
+1st flight 63 s 60 s
+2nd flight 239 s 239 s
+3rd flight 182 s 180 s
+4th flight 90 s 90 s
+Total score of this task would be 60 s + 239 s + 180 s + 90 s = 569 s

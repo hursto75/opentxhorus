@@ -1,0 +1,1 @@
+You can set the start time for timer1, normally the total flying session time, or 'WORKING TIME'.

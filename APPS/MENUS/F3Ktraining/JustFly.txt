@@ -1,0 +1,33 @@
+5.7.4. Safety
+5.7.4.1. Contact with a person
+In order to guarantee the highest level of safety, any contact between a model glider being launched or a flying model glider and any other person (except the competitor) either in or outside the start and landing field has to be avoided.
+This includes contact that happens while the glider is flying or while the glider is being handled by the competitor between landing and launching.
+If such contact happens on the start and landing field during the preparation time, working time or landing window, the competitor will receive a penalty according to paragraph 5.7.4.3.
+In addition, if the contact happens during the preparation or working time at the launch of the model glider, this will result in a zero score for the whole round.
+
+5.7.4.2. Mid air collision
+In cases of mid-air collisions of two or more model gliders the competitors will not be granted reflights nor will penalties be levied.
+
+5.7.4.3. Safety area
+The organiser may define safety areas outside of the start and landing field, for protecting people and objects. The organiser must ensure that the safety areas are well defined, clearly marked and permanently monitored.
+Contact of the model glider:
+ i) with an object, including the ground, within the defined safety area will be penalised by deduction of 100 points from the competitor's final score.
+ ii) while airborne with a person (except its pilot) within the defined safety area will be penalised by deduction of 300 points from the competitor's final score.
+ iii) while airborne with a person (except its pilot) anywhere outside the defined safety area will be penalised by deduction of 100 points from the competitor's final score.
+Each flight attempt may only incur a single penalty. If multiple safety infractions happened during the same flight attempt only the highest penalty will be applied.
+For example, if during the same flight attempt a competitor's model contacted a person and an object inside the safety area, the 300 points penalty will be applied.
+In all of the above cases, if the infractions occurred as a result of a mid-air collision, no penalties will be levied, according to 5.7.4.2.
+Penalties shall be listed on the score sheet of the round in which the infringement(s) occurred.
+
+5.7.4.4. Forbidden airspace
+The organiser may define forbidden airspace, flying inside of which is strictly forbidden at any altitude.
+If a competitor flies his model glider inside such a forbidden airspace, a notification is announced to the competitor.
+The competitor has to fly his model glider out of the forbidden airspace immediately and by the shortest route.
+If not following this way the flight shall be scored zero.
+For major events the declaration of forbidden airspace should only be used as a last resort if a field cannot be found that will allow the contest site to be set out free of such constraints.
+
+5.7.5. Weather conditions / Interruptions
+The maximum wind speed for F3K contests is eight (8) m/sec.
+The start of the contest must be delayed or the contest has to be interrupted by the contest director if the wind speed exceeds eight (8) m/sec measured three (3) times for at least twenty (20) sec in a time interval of five (5) minutes at two (2) metres above the ground at the start and landing field.
+In the case of rain, the contest director can interrupt the contest.
+When the rain stops, the contest starts again with the group that was flying, which receives a re-flight.

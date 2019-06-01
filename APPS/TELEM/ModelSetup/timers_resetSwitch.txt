@@ -1,0 +1,1 @@
+If you use your own model setup, be aware that the reset switch is assigned to the first special function found that resets timer2.

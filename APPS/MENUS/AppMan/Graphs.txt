@@ -1,0 +1,23 @@
+Graphs can be very useful.
+
+During a flight, taking a quick glance to know whether you ar really going up or not.
+Or after a flight, to check how the battery consumption behaved over time.
+Or on the couch or at the bar, scrolling back to todays record flight, showing and proving you where really up over 250 meters with your 1.5 meter DLG.
+
+It is now all possible with three different graph types:
+
+FIFO.
+First in First out. You want to see a fixed span of time, for instance always the last two minutes, of the telemetry value.
+So you can quickly asses whether voltage is dropping fast or not.
+Use the FIFO graph type, and set your desired timeframes using the help menu, accessible by long press page in the graph selection menu.
+
+FLIGHT.
+This will show you for instance your altitude during a flight.
+It can be synced with the timers for start and stop.
+It will store up to 8 flights, and you can scroll through them using the plus and minus buttons.
+
+LOGFILES.
+This app allows yo to select a logfile from a certain date, and select one of the parameters logged for graphical displaying.
+You can zoom in and out on the timescale, and scroll time back and forth.
+It will autoscale the vertical axes during scrolling and after every zoom action, so you never need to worry about that.
+It's all done for you. 

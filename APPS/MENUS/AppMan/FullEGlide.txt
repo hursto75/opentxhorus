@@ -1,0 +1,10 @@
+This is a setup for a full house motorised glider.
+Both flaps and ailerons are working as flaperons.
+
+8 flightmodes, full span camber presets.
+
+Roll2Flaps mix to allow full span ailerons
+Flaps2Ailerons mix to allow full span flaps.
+Set to negative values for Crow breaking
+
+Flaps2Elevator mix percentages per flightmode

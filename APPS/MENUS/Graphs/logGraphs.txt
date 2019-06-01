@@ -1,0 +1,19 @@
+Log graphs
+
+The log graphs will show the telemetry source chosen for a specific LOG file, in a default timeframe.
+Before starting the graph, a list is shown with all available LOGfiles for the active model.
+Pressing 'enter' once, will show a list with available sources for the graph.
+After selecting one, pressing 'enter' again will start the graphing.
+
+A horizontal line with the current value is shown to facilitate quick interpretation of the graph.
+
+The telemetry value can be scaled.
+100 means it will be scaled to 100% (no scaling).
+A stick or switch source will then range between -1024 and 1024.
+Using a scale of 1024 means that a stick or switch source will be scaled to (value/1024 * 100), so they will range beteween -100 and + 100. 
+
+The 'enter' button wil zoom in into the first left halve of the screen.
+The 'long page' button will zoom out again.
+The plus and minus will scroll you forward and back in time.
+Scaling on the vertical axis is automatic during zoom.
+
