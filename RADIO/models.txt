@@ -17,3 +17,4 @@ model13.bin
 [Other]
 model14.bin
 model15.bin
+model20.bin
